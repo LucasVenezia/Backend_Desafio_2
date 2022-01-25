@@ -11,6 +11,9 @@ const fs = require ('fs');
 const pathToProducts = './files/products.txt'
 
 class container{
+    constructor(filename){
+        this.filename=filename
+    }
     saveProduct = async (product) =>{
         if(!product.title||!product.price) return {status:"error", error: "missing data"}
         try{
