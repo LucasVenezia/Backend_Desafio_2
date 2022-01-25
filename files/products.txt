@@ -1,0 +1,20 @@
+[
+  {
+    "title": "pinza",
+    "price": 150,
+    "thumbnail": "https://d3f64ghtnjizps.cloudfront.net/wp-content/uploads/sites/103/2020/08/10092833/hjbl-1.jpg",
+    "id": 1
+  },
+  {
+    "title": "destornillador",
+    "price": 200,
+    "thumbnail": "https://pimdatacdn.bahco.com/media/sub624/16a0ffdce467453f.png",
+    "id": 2
+  },
+  {
+    "title": "tenaza",
+    "price": 120,
+    "thumbnail": "https://pimdatacdn.bahco.com/media/sub848/16a7b2d4a739fd3f.png",
+    "id": 3
+  }
+]
